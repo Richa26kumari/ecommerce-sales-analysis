@@ -34,7 +34,7 @@ This project showcases an interactive E-Commerce Sales Analysis Dashboard built 
 
 ## 📷 Screenshot
 
-![Dashboard Preview]("Screenshot 2025-04-28 205036.png")
+![Dashboard Preview]("Screenshot 2025-04-28 205036.pngScreenshot 2025-04-28 205036.png")
 
 ---
 
